@@ -1,0 +1,120 @@
+[{
+  "_id": "VEN001",
+  "fecha_hora": {
+    "$date": "2026-09-18T10:30:00.000Z"
+  },
+  "prenda_id": "PRE002",
+  "coleccion_id": "COL001",
+  "cantidad": 1,
+  "precio_unitario": 89900,
+  "total": 89900,
+  "canal": "tienda",
+  "cliente": "Juan González",
+  "vendedor": "Laura Pérez",
+  "forma_pago": "tarjeta"
+},
+{
+  "_id": "VEN002",
+  "fecha_hora": {
+    "$date": "2026-09-18T12:15:00.000Z"
+  },
+  "prenda_id": "PRE006",
+  "coleccion_id": "COL002",
+  "cantidad": 1,
+  "precio_unitario": 289900,
+  "total": 289900,
+  "canal": "web",
+  "cliente": "María Rodríguez",
+  "vendedor": "Carlos Gómez",
+  "forma_pago": "efectivo"
+},
+{
+  "_id": "VEN003",
+  "fecha_hora": {
+    "$date": "2026-09-19T14:20:00.000Z"
+  },
+  "prenda_id": "PRE004",
+  "coleccion_id": "COL003",
+  "cantidad": 2,
+  "precio_unitario": 69900,
+  "total": 139800,
+  "canal": "tienda",
+  "cliente": "Sofía Torres",
+  "vendedor": "Ana Martínez",
+  "forma_pago": "transferencia"
+},
+{
+  "_id": "VEN004",
+  "fecha_hora": {
+    "$date": "2026-09-19T16:45:00.000Z"
+  },
+  "prenda_id": "PRE005",
+  "coleccion_id": "COL001",
+  "cantidad": 1,
+  "precio_unitario": 219900,
+  "total": 219900,
+  "canal": "mayorista",
+  "cliente": "Comercial Moda",
+  "vendedor": "Pedro López",
+  "forma_pago": "tarjeta"
+},
+{
+  "_id": "VEN005",
+  "fecha_hora": {
+    "$date": "2026-09-20T11:10:00.000Z"
+  },
+  "prenda_id": "PRE003",
+  "coleccion_id": "COL002",
+  "cantidad": 2,
+  "precio_unitario": 139900,
+  "total": 279800,
+  "canal": "web",
+  "cliente": "Andrés Ramírez",
+  "vendedor": "Laura Pérez",
+  "forma_pago": "efectivo"
+},
+{
+  "_id": "VEN006",
+  "fecha_hora": {
+    "$date": "2026-09-20T15:30:00.000Z"
+  },
+  "prenda_id": "PRE001",
+  "coleccion_id": "COL003",
+  "cantidad": 1,
+  "precio_unitario": 189900,
+  "total": 189900,
+  "canal": "tienda",
+  "cliente": "Daniel Torres",
+  "vendedor": "Carlos Gómez",
+  "forma_pago": "tarjeta"
+},
+{
+  "_id": "VEN007",
+  "fecha_hora": {
+    "$date": "2026-09-21T09:45:00.000Z"
+  },
+  "prenda_id": "PRE008",
+  "coleccion_id": "COL001",
+  "cantidad": 3,
+  "precio_unitario": 99900,
+  "total": 299700,
+  "canal": "mayorista",
+  "cliente": "Distribuidora Textil",
+  "vendedor": "Ana Martínez",
+  "forma_pago": "transferencia"
+},
+{
+  "_id": "VEN008",
+  "fecha_hora": {
+    "$date": "2026-09-21T13:20:00.000Z"
+  },
+  "prenda_id": "PRE007",
+  "coleccion_id": "COL003",
+  "cantidad": 1,
+  "precio_unitario": 159900,
+  "total": 159900,
+  "canal": "web",
+  "cliente": "Isabella Castro",
+  "vendedor": "Pedro López",
+  "forma_pago": "tarjeta"
+}]

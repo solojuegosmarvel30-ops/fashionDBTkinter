@@ -1,0 +1,72 @@
+[{
+  "_id": "MAT001",
+  "nombre": "Algodón",
+  "tipo": "Natural",
+  "descripcion": "Fibra suave y transpirable",
+  "origen": "Vegetal",
+  "sostenible": true,
+  "estado": "Activo"
+},
+{
+  "_id": "MAT002",
+  "nombre": "Poliéster",
+  "tipo": "Sintético",
+  "descripcion": "Material resistente y duradero",
+  "origen": "Sintético",
+  "sostenible": false,
+  "estado": "Activo"
+},
+{
+  "_id": "MAT003",
+  "nombre": "Lino",
+  "tipo": "Natural",
+  "descripcion": "Fibra ligera y fresca",
+  "origen": "Vegetal",
+  "sostenible": true,
+  "estado": "Activo"
+},
+{
+  "_id": "MAT004",
+  "nombre": "Jean",
+  "tipo": "Textil",
+  "descripcion": "Tela de mezclilla resistente",
+  "origen": "Mixto",
+  "sostenible": false,
+  "estado": "Activo"
+},
+{
+  "_id": "MAT005",
+  "nombre": "Seda",
+  "tipo": "Natural",
+  "descripcion": "Fibra suave de apariencia elegante",
+  "origen": "Animal",
+  "sostenible": true,
+  "estado": "Activo"
+},
+{
+  "_id": "MAT006",
+  "nombre": "Lana",
+  "tipo": "Natural",
+  "descripcion": "Fibra utilizada para prendas abrigadas",
+  "origen": "Animal",
+  "sostenible": true,
+  "estado": "Activo"
+},
+{
+  "_id": "MAT007",
+  "nombre": "Viscosa",
+  "tipo": "Semisintético",
+  "descripcion": "Fibra suave y ligera",
+  "origen": "Celulosa",
+  "sostenible": false,
+  "estado": "Activo"
+},
+{
+  "_id": "MAT008",
+  "nombre": "Cuero sintético",
+  "tipo": "Sintético",
+  "descripcion": "Alternativa artificial al cuero natural",
+  "origen": "Sintético",
+  "sostenible": false,
+  "estado": "Activo"
+}]

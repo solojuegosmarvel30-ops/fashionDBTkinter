@@ -1,0 +1,72 @@
+[{
+  "_id": "DIS001",
+  "nombre": "Laura Martínez",
+  "especialidad": "Moda femenina",
+  "ciudad": "Medellín",
+  "pais": "Colombia",
+  "experiencia_anios": 8,
+  "estado": "Activo"
+},
+{
+  "_id": "DIS002",
+  "nombre": "Camila Restrepo",
+  "especialidad": "Moda casual",
+  "ciudad": "Medellín",
+  "pais": "Colombia",
+  "experiencia_anios": 6,
+  "estado": "Activo"
+},
+{
+  "_id": "DIS003",
+  "nombre": "Santiago Gómez",
+  "especialidad": "Moda urbana",
+  "ciudad": "Bogotá",
+  "pais": "Colombia",
+  "experiencia_anios": 10,
+  "estado": "Activo"
+},
+{
+  "_id": "DIS004",
+  "nombre": "Valentina Ríos",
+  "especialidad": "Alta costura",
+  "ciudad": "Cali",
+  "pais": "Colombia",
+  "experiencia_anios": 7,
+  "estado": "Activo"
+},
+{
+  "_id": "DIS005",
+  "nombre": "Daniel Torres",
+  "especialidad": "Moda masculina",
+  "ciudad": "Bogotá",
+  "pais": "Colombia",
+  "experiencia_anios": 9,
+  "estado": "Activo"
+},
+{
+  "_id": "DIS006",
+  "nombre": "Mariana López",
+  "especialidad": "Moda sostenible",
+  "ciudad": "Envigado",
+  "pais": "Colombia",
+  "experiencia_anios": 5,
+  "estado": "Activo"
+},
+{
+  "_id": "DIS007",
+  "nombre": "Felipe Herrera",
+  "especialidad": "Diseño textil",
+  "ciudad": "Barranquilla",
+  "pais": "Colombia",
+  "experiencia_anios": 11,
+  "estado": "Activo"
+},
+{
+  "_id": "DIS008",
+  "nombre": "Isabella Castro",
+  "especialidad": "Moda juvenil",
+  "ciudad": "Cartagena",
+  "pais": "Colombia",
+  "experiencia_anios": 4,
+  "estado": "Activo"
+}]

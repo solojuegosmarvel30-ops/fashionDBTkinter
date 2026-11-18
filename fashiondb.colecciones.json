@@ -1,0 +1,64 @@
+[{
+  "_id": "COL001",
+  "nombre": "Elegancia Natural",
+  "descripcion": "Prendas elegantes con materiales naturales",
+  "temporada": "Primavera-Verano",
+  "anio": 2026,
+  "estado": "Activa"
+},
+{
+  "_id": "COL002",
+  "nombre": "Color y Vida",
+  "descripcion": "Prendas con colores vivos y diseños modernos",
+  "temporada": "Primavera-Verano",
+  "anio": 2026,
+  "estado": "Activa"
+},
+{
+  "_id": "COL003",
+  "nombre": "Esencia Urbana",
+  "descripcion": "Moda urbana para el uso diario",
+  "temporada": "Otoño-Invierno",
+  "anio": 2026,
+  "estado": "Activa"
+},
+{
+  "_id": "COL004",
+  "nombre": "Estilo Ejecutivo",
+  "descripcion": "Prendas formales para ambientes profesionales",
+  "temporada": "Todo el año",
+  "anio": 2026,
+  "estado": "Activa"
+},
+{
+  "_id": "COL005",
+  "nombre": "Moda Casual",
+  "descripcion": "Prendas cómodas para ocasiones informales",
+  "temporada": "Primavera-Verano",
+  "anio": 2026,
+  "estado": "Activa"
+},
+{
+  "_id": "COL006",
+  "nombre": "Noche Especial",
+  "descripcion": "Prendas elegantes para eventos y ocasiones especiales",
+  "temporada": "Todo el año",
+  "anio": 2026,
+  "estado": "Activa"
+},
+{
+  "_id": "COL007",
+  "nombre": "Denim Collection",
+  "descripcion": "Prendas elaboradas con mezclilla y diseños juveniles",
+  "temporada": "Otoño-Invierno",
+  "anio": 2026,
+  "estado": "Activa"
+},
+{
+  "_id": "COL008",
+  "nombre": "Eco Fashion",
+  "descripcion": "Moda sostenible con materiales amigables con el medio ambiente",
+  "temporada": "Todo el año",
+  "anio": 2026,
+  "estado": "Activa"
+}]

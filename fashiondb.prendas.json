@@ -1,0 +1,829 @@
+[{
+  "_id": "PRE001",
+  "nombre": "Vestido Aurora",
+  "categoria": "Vestido",
+  "linea": "Formal",
+  "temporada": "Primavera-Verano",
+  "precio": 189900,
+  "fecha_registro": {
+    "$date": "2026-01-10T00:00:00.000Z"
+  },
+  "colecciones": [
+    {
+      "codigo": "COL002",
+      "nombre": "Elegancia Natural",
+      "temporada": "Primavera-Verano",
+      "anio": 2026
+    }
+  ],
+  "disenador": {
+    "id": 1,
+    "nombre": "Laura Gómez",
+    "ciudad": "Medellín"
+  },
+  "tallas": [
+    {
+      "talla": "S",
+      "color": "Rojo",
+      "existencias": 12
+    },
+    {
+      "talla": "M",
+      "color": "Negro",
+      "existencias": 23
+    }
+  ],
+  "materiales": [
+    {
+      "codigo": "MAT003",
+      "nombre": "Lino",
+      "cantidad": 2.5,
+      "unidad": "Metro"
+    },
+    {
+      "codigo": "MAT008",
+      "nombre": "Forro Satín",
+      "cantidad": 1.8,
+      "unidad": "Metro"
+    },
+    {
+      "codigo": "MAT007",
+      "nombre": "Hilo de Poliéster",
+      "cantidad": 0.15,
+      "unidad": "Rollo"
+    }
+  ],
+  "ventas": [
+    {
+      "transaccion": 6,
+      "fecha": {
+        "$date": "2026-09-20T00:00:00.000Z"
+      },
+      "cantidad": 1
+    }
+  ]
+},
+{
+  "_id": "PRE002",
+  "nombre": "Camisa Urbana",
+  "categoria": "Camisa",
+  "linea": "Casual",
+  "temporada": "Primavera-Verano",
+  "precio": 89900,
+  "fecha_registro": {
+    "$date": "2026-01-12T00:00:00.000Z"
+  },
+  "colecciones": [
+    {
+      "codigo": "COL001",
+      "nombre": "Esencia Urbana",
+      "temporada": "Primavera-Verano",
+      "anio": 2026
+    }
+  ],
+  "disenador": {
+    "id": 2,
+    "nombre": "Carlos Martínez",
+    "ciudad": "Medellín"
+  },
+  "tallas": [
+    {
+      "talla": "M",
+      "color": "Blanco",
+      "existencias": 20
+    },
+    {
+      "talla": "L",
+      "color": "Blanco",
+      "existencias": 25
+    }
+  ],
+  "materiales": [
+    {
+      "codigo": "MAT001",
+      "nombre": "Algodón Premium",
+      "cantidad": 1.5,
+      "unidad": "Metro"
+    },
+    {
+      "codigo": "MAT006",
+      "nombre": "Botón Clásico",
+      "cantidad": 7,
+      "unidad": "Unidad"
+    },
+    {
+      "codigo": "MAT007",
+      "nombre": "Hilo de Poliéster",
+      "cantidad": 0.1,
+      "unidad": "Rollo"
+    }
+  ],
+  "ventas": [
+    {
+      "transaccion": 1,
+      "fecha": {
+        "$date": "2026-09-18T00:00:00.000Z"
+      },
+      "cantidad": 1
+    },
+    {
+      "transaccion": 6,
+      "fecha": {
+        "$date": "2026-09-20T00:00:00.000Z"
+      },
+      "cantidad": 1
+    }
+  ]
+},
+{
+  "_id": "PRE003",
+  "nombre": "Pantalón Denim Classic",
+  "categoria": "Pantalón",
+  "linea": "Casual",
+  "temporada": "Primavera-Verano",
+  "precio": 139900,
+  "fecha_registro": {
+    "$date": "2026-01-15T00:00:00.000Z"
+  },
+  "colecciones": [
+    {
+      "codigo": "COL001",
+      "nombre": "Esencia Urbana",
+      "temporada": "Primavera-Verano",
+      "anio": 2026
+    }
+  ],
+  "disenador": {
+    "id": 2,
+    "nombre": "Carlos Martínez",
+    "ciudad": "Medellín"
+  },
+  "tallas": [
+    {
+      "talla": "32",
+      "color": "Azul",
+      "existencias": 35
+    }
+  ],
+  "materiales": [
+    {
+      "codigo": "MAT002",
+      "nombre": "Denim",
+      "cantidad": 1.8,
+      "unidad": "Metro"
+    },
+    {
+      "codigo": "MAT005",
+      "nombre": "Cierre Metálico",
+      "cantidad": 1,
+      "unidad": "Unidad"
+    },
+    {
+      "codigo": "MAT007",
+      "nombre": "Hilo de Poliéster",
+      "cantidad": 0.15,
+      "unidad": "Rollo"
+    }
+  ],
+  "ventas": [
+    {
+      "transaccion": 1,
+      "fecha": {
+        "$date": "2026-09-18T00:00:00.000Z"
+      },
+      "cantidad": 1
+    },
+    {
+      "transaccion": 5,
+      "fecha": {
+        "$date": "2026-09-20T00:00:00.000Z"
+      },
+      "cantidad": 1
+    }
+  ]
+},
+{
+  "_id": "PRE004",
+  "nombre": "Camiseta Active",
+  "categoria": "Camiseta",
+  "linea": "Deportiva",
+  "temporada": "Otoño-Invierno",
+  "precio": 69900,
+  "fecha_registro": {
+    "$date": "2026-02-01T00:00:00.000Z"
+  },
+  "colecciones": [
+    {
+      "codigo": "COL003",
+      "nombre": "Active Motion",
+      "temporada": "Otoño-Invierno",
+      "anio": 2026
+    }
+  ],
+  "disenador": {
+    "id": 3,
+    "nombre": "Sofía Ramírez",
+    "ciudad": "Itagüí"
+  },
+  "tallas": [
+    {
+      "talla": "M",
+      "color": "Negro",
+      "existencias": 30
+    }
+  ],
+  "materiales": [
+    {
+      "codigo": "MAT004",
+      "nombre": "Poliéster Deportivo",
+      "cantidad": 1.3,
+      "unidad": "Metro"
+    },
+    {
+      "codigo": "MAT007",
+      "nombre": "Hilo de Poliéster",
+      "cantidad": 0.1,
+      "unidad": "Rollo"
+    }
+  ],
+  "ventas": [
+    {
+      "transaccion": 3,
+      "fecha": {
+        "$date": "2026-09-19T00:00:00.000Z"
+      },
+      "cantidad": 1
+    },
+    {
+      "transaccion": 6,
+      "fecha": {
+        "$date": "2026-09-20T00:00:00.000Z"
+      },
+      "cantidad": 1
+    }
+  ]
+},
+{
+  "_id": "PRE005",
+  "nombre": "Chaqueta Motion",
+  "categoria": "Chaqueta",
+  "linea": "Deportiva",
+  "temporada": "Otoño-Invierno",
+  "precio": 219900,
+  "fecha_registro": {
+    "$date": "2026-02-05T00:00:00.000Z"
+  },
+  "colecciones": [
+    {
+      "codigo": "COL003",
+      "nombre": "Active Motion",
+      "temporada": "Otoño-Invierno",
+      "anio": 2026
+    }
+  ],
+  "disenador": {
+    "id": 3,
+    "nombre": "Sofía Ramírez",
+    "ciudad": "Itagüí"
+  },
+  "tallas": [
+    {
+      "talla": "L",
+      "color": "Gris",
+      "existencias": 8
+    }
+  ],
+  "materiales": [
+    {
+      "codigo": "MAT004",
+      "nombre": "Poliéster Deportivo",
+      "cantidad": 2.2,
+      "unidad": "Metro"
+    },
+    {
+      "codigo": "MAT005",
+      "nombre": "Cierre Metálico",
+      "cantidad": 2,
+      "unidad": "Unidad"
+    },
+    {
+      "codigo": "MAT007",
+      "nombre": "Hilo de Poliéster",
+      "cantidad": 0.15,
+      "unidad": "Rollo"
+    }
+  ],
+  "ventas": [
+    {
+      "transaccion": 4,
+      "fecha": {
+        "$date": "2026-09-19T00:00:00.000Z"
+      },
+      "cantidad": 1
+    }
+  ]
+},
+{
+  "_id": "PRE006",
+  "nombre": "Blazer Ejecutivo",
+  "categoria": "Blazer",
+  "linea": "Formal",
+  "temporada": "Otoño-Invierno",
+  "precio": 289900,
+  "fecha_registro": {
+    "$date": "2026-02-10T00:00:00.000Z"
+  },
+  "colecciones": [
+    {
+      "codigo": "COL004",
+      "nombre": "Clásicos Eternos",
+      "temporada": "Otoño-Invierno",
+      "anio": 2026
+    }
+  ],
+  "disenador": {
+    "id": 4,
+    "nombre": "Andrés Rodríguez",
+    "ciudad": "Medellín"
+  },
+  "tallas": [
+    {
+      "talla": "M",
+      "color": "Negro",
+      "existencias": 10
+    }
+  ],
+  "materiales": [
+    {
+      "codigo": "MAT008",
+      "nombre": "Forro Satín",
+      "cantidad": 2,
+      "unidad": "Metro"
+    },
+    {
+      "codigo": "MAT007",
+      "nombre": "Hilo de Poliéster",
+      "cantidad": 0.2,
+      "unidad": "Rollo"
+    },
+    {
+      "codigo": "MAT006",
+      "nombre": "Botón Clásico",
+      "cantidad": 2,
+      "unidad": "Unidad"
+    }
+  ],
+  "ventas": [
+    {
+      "transaccion": 2,
+      "fecha": {
+        "$date": "2026-09-18T00:00:00.000Z"
+      },
+      "cantidad": 1
+    }
+  ]
+},
+{
+  "_id": "PRE007",
+  "nombre": "Pantalón Ejecutivo",
+  "categoria": "Pantalón",
+  "linea": "Formal",
+  "temporada": "Otoño-Invierno",
+  "precio": 159900,
+  "fecha_registro": {
+    "$date": "2026-02-12T00:00:00.000Z"
+  },
+  "colecciones": [
+    {
+      "codigo": "COL004",
+      "nombre": "Clásicos Eternos",
+      "temporada": "Otoño-Invierno",
+      "anio": 2026
+    }
+  ],
+  "disenador": {
+    "id": 4,
+    "nombre": "Andrés Rodríguez",
+    "ciudad": "Medellín"
+  },
+  "tallas": [
+    {
+      "talla": "32",
+      "color": "Negro",
+      "existencias": 12
+    }
+  ],
+  "materiales": [
+    {
+      "codigo": "MAT002",
+      "nombre": "Denim",
+      "cantidad": 1.7,
+      "unidad": "Metro"
+    },
+    {
+      "codigo": "MAT008",
+      "nombre": "Forro Satín",
+      "cantidad": 0.5,
+      "unidad": "Metro"
+    },
+    {
+      "codigo": "MAT005",
+      "nombre": "Cierre Metálico",
+      "cantidad": 1,
+      "unidad": "Unidad"
+    }
+  ],
+  "ventas": []
+},
+{
+  "_id": "PRE008",
+  "nombre": "Blusa Primavera",
+  "categoria": "Blusa",
+  "linea": "Casual",
+  "temporada": "Primavera-Verano",
+  "precio": 99900,
+  "fecha_registro": {
+    "$date": "2026-02-15T00:00:00.000Z"
+  },
+  "colecciones": [
+    {
+      "codigo": "COL001",
+      "nombre": "Esencia Urbana",
+      "temporada": "Primavera-Verano",
+      "anio": 2026
+    },
+    {
+      "codigo": "COL002",
+      "nombre": "Elegancia Natural",
+      "temporada": "Primavera-Verano",
+      "anio": 2026
+    },
+    {
+      "codigo": "COL005",
+      "nombre": "Color y Vida",
+      "temporada": "Primavera-Verano",
+      "anio": 2027
+    }
+  ],
+  "disenador": {
+    "id": 5,
+    "nombre": "Valentina Torres",
+    "ciudad": "Envigado"
+  },
+  "tallas": [
+    {
+      "talla": "S",
+      "color": "Beige",
+      "existencias": 10
+    },
+    {
+      "talla": "S",
+      "color": "Rosa",
+      "existencias": 15
+    }
+  ],
+  "materiales": [
+    {
+      "codigo": "MAT001",
+      "nombre": "Algodón Premium",
+      "cantidad": 1.4,
+      "unidad": "Metro"
+    },
+    {
+      "codigo": "MAT006",
+      "nombre": "Botón Clásico",
+      "cantidad": 5,
+      "unidad": "Unidad"
+    }
+  ],
+  "ventas": [
+    {
+      "transaccion": 6,
+      "fecha": {
+        "$date": "2026-09-20T00:00:00.000Z"
+      },
+      "cantidad": 1
+    }
+  ]
+},
+{
+  "_id": "PRE009",
+  "nombre": "Vestido Color",
+  "categoria": "Vestido",
+  "linea": "Casual",
+  "temporada": "Primavera-Verano",
+  "precio": 169900,
+  "fecha_registro": {
+    "$date": "2026-02-18T00:00:00.000Z"
+  },
+  "colecciones": [
+    {
+      "codigo": "COL002",
+      "nombre": "Elegancia Natural",
+      "temporada": "Primavera-Verano",
+      "anio": 2026
+    },
+    {
+      "codigo": "COL005",
+      "nombre": "Color y Vida",
+      "temporada": "Primavera-Verano",
+      "anio": 2027
+    }
+  ],
+  "disenador": {
+    "id": 5,
+    "nombre": "Valentina Torres",
+    "ciudad": "Envigado"
+  },
+  "tallas": [
+    {
+      "talla": "M",
+      "color": "Amarillo",
+      "existencias": 10
+    }
+  ],
+  "materiales": [
+    {
+      "codigo": "MAT003",
+      "nombre": "Lino",
+      "cantidad": 2.3,
+      "unidad": "Metro"
+    },
+    {
+      "codigo": "MAT007",
+      "nombre": "Hilo de Poliéster",
+      "cantidad": 0.15,
+      "unidad": "Rollo"
+    }
+  ],
+  "ventas": [
+    {
+      "transaccion": 7,
+      "fecha": {
+        "$date": "2026-09-21T00:00:00.000Z"
+      },
+      "cantidad": 1,
+      "dato_prueba": true
+    }
+  ]
+},
+{
+  "_id": "PRE010",
+  "nombre": "Camisa Formal Classic",
+  "categoria": "Camisa",
+  "linea": "Formal",
+  "temporada": "Otoño-Invierno",
+  "precio": 119900,
+  "fecha_registro": {
+    "$date": "2026-02-20T00:00:00.000Z"
+  },
+  "colecciones": [
+    {
+      "codigo": "COL004",
+      "nombre": "Clásicos Eternos",
+      "temporada": "Otoño-Invierno",
+      "anio": 2026
+    }
+  ],
+  "disenador": {
+    "id": 4,
+    "nombre": "Andrés Rodríguez",
+    "ciudad": "Medellín"
+  },
+  "tallas": [
+    {
+      "talla": "M",
+      "color": "Blanco",
+      "existencias": 14
+    }
+  ],
+  "materiales": [
+    {
+      "codigo": "MAT001",
+      "nombre": "Algodón Premium",
+      "cantidad": 1.6,
+      "unidad": "Metro"
+    },
+    {
+      "codigo": "MAT006",
+      "nombre": "Botón Clásico",
+      "cantidad": 8,
+      "unidad": "Unidad"
+    },
+    {
+      "codigo": "MAT007",
+      "nombre": "Hilo de Poliéster",
+      "cantidad": 0.1,
+      "unidad": "Rollo"
+    }
+  ],
+  "ventas": []
+},
+{
+  "_id": "PRE011",
+  "nombre": "Vestido Gala",
+  "categoria": "Vestido",
+  "linea": "Alta costura",
+  "temporada": "Primavera-Verano",
+  "precio": 259900,
+  "fecha_registro": {
+    "$date": "2026-03-01T00:00:00.000Z"
+  },
+  "colecciones": [
+    {
+      "codigo": "COL002",
+      "nombre": "Elegancia Natural",
+      "temporada": "Primavera-Verano",
+      "anio": 2026
+    }
+  ],
+  "disenador": {
+    "id": 1,
+    "nombre": "Laura Gómez",
+    "ciudad": "Medellín"
+  },
+  "tallas": [
+    {
+      "talla": "M",
+      "color": "Rojo",
+      "existencias": 3
+    }
+  ],
+  "ventas": [
+    {
+      "transaccion": 8,
+      "fecha": {
+        "$date": "2026-09-22T00:00:00.000Z"
+      },
+      "cantidad": 3,
+      "dato_prueba": true
+    }
+  ]
+},
+{
+  "_id": "PRE012",
+  "nombre": "Chaqueta Brisa",
+  "categoria": "Chaqueta",
+  "linea": "Casual",
+  "temporada": "Primavera-Verano",
+  "precio": 239900,
+  "fecha_registro": {
+    "$date": "2026-03-05T00:00:00.000Z"
+  },
+  "colecciones": [
+    {
+      "codigo": "COL005",
+      "nombre": "Color y Vida",
+      "temporada": "Primavera-Verano",
+      "anio": 2027
+    }
+  ],
+  "disenador": {
+    "id": 5,
+    "nombre": "Valentina Torres",
+    "ciudad": "Envigado"
+  },
+  "tallas": [
+    {
+      "talla": "M",
+      "color": "Azul",
+      "existencias": 7
+    }
+  ],
+  "ventas": [
+    {
+      "transaccion": 9,
+      "fecha": {
+        "$date": "2026-09-23T00:00:00.000Z"
+      },
+      "cantidad": 2,
+      "dato_prueba": true
+    }
+  ]
+},
+{
+  "_id": "PRE013",
+  "referencia": "REF013",
+  "nombre": "Vestido Primavera",
+  "categoria": "Vestido",
+  "precio": 189900,
+  "temporada": "Primavera-Verano",
+  "colecciones": [
+    {
+      "id": "COL001",
+      "nombre": "Elegancia Natural"
+    }
+  ],
+  "disenador": {
+    "id": "DIS001",
+    "nombre": "Laura Martínez",
+    "ciudad": "Medellín"
+  },
+  "tallas": [
+    {
+      "talla": "S",
+      "color": "Rosa",
+      "existencias": 10
+    },
+    {
+      "talla": "M",
+      "color": "Rosa",
+      "existencias": 8
+    }
+  ],
+  "materiales": [
+    "Algodón",
+    "Poliéster"
+  ],
+  "fecha_creacion": {
+    "$date": "2026-11-18T10:00:00.000Z"
+  }
+},
+{
+  "_id": "PRE014",
+  "referencia": "REF014",
+  "nombre": "Blusa Floral",
+  "categoria": "Blusa",
+  "precio": 129900,
+  "temporada": "Primavera-Verano",
+  "colecciones": [
+    {
+      "id": "COL002",
+      "nombre": "Color y Vida"
+    }
+  ],
+  "disenador": {
+    "id": "DIS002",
+    "nombre": "Camila Restrepo",
+    "ciudad": "Medellín"
+  },
+  "tallas": [
+    {
+      "talla": "S",
+      "color": "Blanco",
+      "existencias": 12
+    },
+    {
+      "talla": "M",
+      "color": "Blanco",
+      "existencias": 10
+    },
+    {
+      "talla": "L",
+      "color": "Blanco",
+      "existencias": 6
+    }
+  ],
+  "materiales": [
+    "Algodón",
+    "Lino"
+  ],
+  "unidades_vendidas": 4,
+  "fecha_creacion": {
+    "$date": "2026-11-18T10:00:00.000Z"
+  }
+},
+{
+  "_id": "PRE015",
+  "referencia": "REF015",
+  "nombre": "Chaqueta Urbana",
+  "categoria": "Chaqueta",
+  "precio": 259900,
+  "temporada": "Otoño-Invierno",
+  "colecciones": [
+    {
+      "id": "COL003",
+      "nombre": "Esencia Urbana"
+    }
+  ],
+  "disenador": {
+    "id": "DIS003",
+    "nombre": "Santiago Gómez",
+    "ciudad": "Bogotá"
+  },
+  "tallas": [
+    {
+      "talla": "M",
+      "color": "Negro",
+      "existencias": 8
+    },
+    {
+      "talla": "L",
+      "color": "Negro",
+      "existencias": 6
+    },
+    {
+      "talla": "XL",
+      "color": "Negro",
+      "existencias": 4
+    }
+  ],
+  "materiales": [
+    "Jean",
+    "Algodón"
+  ],
+  "unidades_vendidas": 5,
+  "fecha_creacion": {
+    "$date": "2026-11-18T10:00:00.000Z"
+  }
+}]

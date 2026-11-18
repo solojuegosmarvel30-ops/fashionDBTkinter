@@ -1,0 +1,80 @@
+[{
+  "_id": "VEN001",
+  "nombre": "Laura Pérez",
+  "documento": "1001001001",
+  "ciudad": "Medellín",
+  "telefono": "3101234567",
+  "correo": "laura.perez@fashiondb.com",
+  "tienda_id": "TIE001",
+  "estado": "Activo"
+},
+{
+  "_id": "VEN002",
+  "nombre": "Carlos Ramírez",
+  "documento": "1001001002",
+  "ciudad": "Medellín",
+  "telefono": "3101234568",
+  "correo": "carlos.ramirez@fashiondb.com",
+  "tienda_id": "TIE002",
+  "estado": "Activo"
+},
+{
+  "_id": "VEN003",
+  "nombre": "María Gómez",
+  "documento": "1001001003",
+  "ciudad": "Bogotá",
+  "telefono": "3101234569",
+  "correo": "maria.gomez@fashiondb.com",
+  "tienda_id": "TIE003",
+  "estado": "Activo"
+},
+{
+  "_id": "VEN004",
+  "nombre": "Andrés López",
+  "documento": "1001001004",
+  "ciudad": "Cali",
+  "telefono": "3101234570",
+  "correo": "andres.lopez@fashiondb.com",
+  "tienda_id": "TIE004",
+  "estado": "Activo"
+},
+{
+  "_id": "VEN005",
+  "nombre": "Valentina Torres",
+  "documento": "1001001005",
+  "ciudad": "Barranquilla",
+  "telefono": "3101234571",
+  "correo": "valentina.torres@fashiondb.com",
+  "tienda_id": "TIE005",
+  "estado": "Activo"
+},
+{
+  "_id": "VEN006",
+  "nombre": "Santiago Castro",
+  "documento": "1001001006",
+  "ciudad": "Cartagena",
+  "telefono": "3101234572",
+  "correo": "santiago.castro@fashiondb.com",
+  "tienda_id": "TIE006",
+  "estado": "Activo"
+},
+{
+  "_id": "VEN007",
+  "nombre": "Camila Restrepo",
+  "documento": "1001001007",
+  "ciudad": "Pereira",
+  "telefono": "3101234573",
+  "correo": "camila.restrepo@fashiondb.com",
+  "tienda_id": "TIE007",
+  "estado": "Activo"
+},
+{
+  "_id": "VEN008",
+  "nombre": "Daniela Martínez",
+  "documento": "1001001008",
+  "ciudad": "Envigado",
+  "telefono": "3101234574",
+  "correo": "daniela.martinez@fashiondb.com",
+  "tienda_id": "TIE008",
+  "estado": "Activo"
+}]

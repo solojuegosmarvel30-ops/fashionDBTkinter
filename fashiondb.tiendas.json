@@ -1,0 +1,80 @@
+[{
+  "_id": "TIE001",
+  "nombre": "Tienda Fashion Medellín",
+  "ciudad": "Medellín",
+  "departamento": "Antioquia",
+  "pais": "Colombia",
+  "direccion": "Centro Comercial El Tesoro",
+  "telefono": "3001234567",
+  "estado": "Activa"
+},
+{
+  "_id": "TIE002",
+  "nombre": "Fashion Plaza Mayor",
+  "ciudad": "Medellín",
+  "departamento": "Antioquia",
+  "pais": "Colombia",
+  "direccion": "Centro Comercial Los Molinos",
+  "telefono": "3001234568",
+  "estado": "Activa"
+},
+{
+  "_id": "TIE003",
+  "nombre": "Fashion Bogotá",
+  "ciudad": "Bogotá",
+  "departamento": "Cundinamarca",
+  "pais": "Colombia",
+  "direccion": "Centro Comercial Andino",
+  "telefono": "3001234569",
+  "estado": "Activa"
+},
+{
+  "_id": "TIE004",
+  "nombre": "Fashion Cali",
+  "ciudad": "Cali",
+  "departamento": "Valle del Cauca",
+  "pais": "Colombia",
+  "direccion": "Centro Comercial Chipichape",
+  "telefono": "3001234570",
+  "estado": "Activa"
+},
+{
+  "_id": "TIE005",
+  "nombre": "Fashion Barranquilla",
+  "ciudad": "Barranquilla",
+  "departamento": "Atlántico",
+  "pais": "Colombia",
+  "direccion": "Centro Comercial Buenavista",
+  "telefono": "3001234571",
+  "estado": "Activa"
+},
+{
+  "_id": "TIE006",
+  "nombre": "Fashion Cartagena",
+  "ciudad": "Cartagena",
+  "departamento": "Bolívar",
+  "pais": "Colombia",
+  "direccion": "Centro Comercial Caribe Plaza",
+  "telefono": "3001234572",
+  "estado": "Activa"
+},
+{
+  "_id": "TIE007",
+  "nombre": "Fashion Pereira",
+  "ciudad": "Pereira",
+  "departamento": "Risaralda",
+  "pais": "Colombia",
+  "direccion": "Centro Comercial Parque Arboleda",
+  "telefono": "3001234573",
+  "estado": "Activa"
+},
+{
+  "_id": "TIE008",
+  "nombre": "Fashion Envigado",
+  "ciudad": "Envigado",
+  "departamento": "Antioquia",
+  "pais": "Colombia",
+  "direccion": "Centro Comercial Viva Envigado",
+  "telefono": "3001234574",
+  "estado": "Activa"
+}]
